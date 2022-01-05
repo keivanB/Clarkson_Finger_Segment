@@ -12,7 +12,7 @@ paper: https://arxiv.org/abs/2110.04067
 
 You can try our Fingerprint Slap Segmentaition Model (V1) in Google Collab ! 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keivanB/Clarkson_Finger_Segment/blob/main/Samples.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keivanB/Clarkson_Finger_Segment/blob/main/Sample.ipynb)
 
 
 ### Acknowledgements
