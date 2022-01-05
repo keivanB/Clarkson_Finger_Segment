@@ -6,7 +6,7 @@
 Official Repository for Clarkson Fingerprint Segmentaition Model.
 
 paper: https://arxiv.org/abs/2110.04067
-
+paper: https://ieeexplore.ieee.org/abstract/document/9641980/
 
 ## Fingerprint Segmentaition
 
