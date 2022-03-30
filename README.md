@@ -1,7 +1,7 @@
 ![Teaser image](./Clogo.png)
 ![Teaser image](./CITeR-logo.png)
 
-# Clarkson Fingerprint Segmentaition Model V1
+# Clarkson Fingerprint Segmentation Model V1
 
 Official Repository for Clarkson Fingerprint Segmentation Model.
 
