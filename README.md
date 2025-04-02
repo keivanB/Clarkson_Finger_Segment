@@ -3,7 +3,7 @@
 
 # Clarkson Fingerprint Segmentation Model V1
 
-Official Repository for Clarkson Fingerprint Segmentation Model.
+Official Repository for Clarkson Fingerprint Segmentation Model. Make sure to try the new and improved version of this model at "https://github.com/sarwarmurshed/CRFSEG"
 
 paper: https://arxiv.org/abs/2110.04067
 paper: https://ieeexplore.ieee.org/abstract/document/9641980/
